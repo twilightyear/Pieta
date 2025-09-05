@@ -17,32 +17,32 @@ export default (props) => {
 						<div className="flex flex-col items-start self-stretch bg-[#E5E3DF] pt-52 pb-[101px] mx-5">
 							<div className="flex flex-col items-end self-stretch mb-[41px] ml-[432px]">
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/9s2hwgv9_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/3qw5fk80_expires_30_days.png"} 
 									className="w-[1px] h-[1px] object-fill"
 								/>
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/aoi67y1q_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/02zlim2c_expires_30_days.png"} 
 									className="w-[1px] h-[1px] object-fill"
 								/>
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/o6grs7na_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/phwuv9bu_expires_30_days.png"} 
 									className="w-[1px] h-[1px] mb-[105px] object-fill"
 								/>
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/1cp9w202_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/ou97qgw6_expires_30_days.png"} 
 									className="w-[1px] h-[1px] mb-[104px] object-fill"
 								/>
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/5q3b6dox_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/nqipxti2_expires_30_days.png"} 
 									className="w-[1px] h-[1px] mb-[104px] object-fill"
 								/>
 								<img
-									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/1bh2fjrv_expires_30_days.png"} 
+									src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/j0cpx0k2_expires_30_days.png"} 
 									className="w-[1px] h-[1px] object-fill"
 								/>
 							</div>
 							<img
-								src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/qwv89skm_expires_30_days.png"} 
+								src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/x4hdl8pn_expires_30_days.png"} 
 								className="w-[1px] h-[1px] mb-[194px] ml-[539px] object-fill"
 							/>
 							<div className="self-stretch h-[1px] mb-[90px] ml-[1090px] mr-[109px]">
@@ -74,7 +74,7 @@ export default (props) => {
 							{"부대 현황"}
 						</span>
 						<img
-							src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/bqvp8bke_expires_30_days.png"} 
+							src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/5ovg247g_expires_30_days.png"} 
 							className="w-[580px] h-[580px] mx-5 rounded-2xl object-fill"
 						/>
 					</div>
@@ -126,7 +126,7 @@ export default (props) => {
 							{"대시보드"}
 						</span>
 						<img
-							src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/eys7742w_expires_30_days.png"} 
+							src={"https://storage.googleapis.com/tagjs-prod.appspot.com/v1/UG7ueamYkb/ba9dvnbk_expires_30_days.png"} 
 							className="w-[580px] h-[290px] mx-5 rounded-2xl object-fill"
 						/>
 					</div>
